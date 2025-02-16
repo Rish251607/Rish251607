@@ -1,5 +1,6 @@
 ### Hi there 👋 My name is Rishabh Sharma
 ###😄 Pronouns: He/Him
+
 🚀 *About Me*
 - I'm a Software Developer with experience in web development at Arisen Technologies, Noida. I have also worked as a Computer Teacher at Ratan Prem DAV Girls Inter College, Aligarh. Currently, I am transitioning into a Business Analyst role, leveraging my technical background to drive data-driven decision-making and strategic insights.
 
