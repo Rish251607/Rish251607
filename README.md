@@ -2,6 +2,7 @@
 ###😄 Pronouns: He/Him
 
 🚀 *About Me*
+
 I am a Data Analyst and aspiring Data Scientist with a strong foundation in software development and business analytics. With experience in web development at Arisen Technologies and academic exposure through my MBA in Business Analytics, I specialize in transforming raw data into meaningful insights that drive business decisions.
 
 I am passionate about Machine Learning, AI, and predictive analytics, and I enjoy solving real-world problems using data-driven approaches.
@@ -22,13 +23,13 @@ I am passionate about Machine Learning, AI, and predictive analytics, and I enjo
 
 📊 *What I’m Focused On*
 
-Building Machine Learning models for predictive analytics
+ 1. Building Machine Learning models for predictive analytics
 
-Performing Exploratory Data Analysis (EDA) to uncover business insights
+ 2. Performing Exploratory Data Analysis (EDA) to uncover business insights
 
-Working on real-world datasets and end-to-end data science projects
+ 3. Working on real-world datasets and end-to-end data science projects
 
-Strengthening my skills in AI, ML, and advanced analytics
+ 4. Strengthening my skills in AI, ML, and advanced analytics
 
 🎯 *Career Goal*
 To work as a Data Analyst / Data Scientist where I can combine analytical thinking, machine learning, and business understanding to create impactful, data-driven solutions.
