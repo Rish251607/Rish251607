@@ -32,6 +32,7 @@ I am passionate about Machine Learning, AI, and predictive analytics, and I enjo
  4. Strengthening my skills in AI, ML, and advanced analytics
 
 🎯 *Career Goal*
+
 To work as a Data Analyst / Data Scientist where I can combine analytical thinking, machine learning, and business understanding to create impactful, data-driven solutions.
 
 🔗 *Connect with Me*
