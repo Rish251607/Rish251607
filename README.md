@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Rishabh Sharma
-###😄 Pronouns: He/Him
+😄 Pronouns: He/Him
 
 🚀 *About Me*
 
