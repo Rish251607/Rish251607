@@ -11,7 +11,7 @@ I am passionate about Machine Learning, AI, and predictive analytics, and I enjo
 
 🔹 Programming & Databases: Python, SQL, MySQL
 
-🔹 Data Analysis & Visualization: Pandas, NumPy, Excel, Tableau, Matplotlib
+🔹 Data Analysis & Visualization: Pandas, NumPy, Excel, Tableau, Matplotlib, Power BI, Tableau
 
 🔹 Machine Learning: Scikit-learn, Supervised, Unsupervised Learning and reinforcement Learning
 
